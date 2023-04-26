@@ -1,6 +1,7 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
   <p>Good complete commit</p>
+  <p>Good complete commit</p>
   <HelloWorld msg="Welcome to Your Vue.js App"/>
 </template>
 
